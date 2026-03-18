@@ -25,7 +25,9 @@ Este projeto consiste na construção e programação de um braço robótico fun
 O sistema realiza o controle dos atuadores do braço robótico através do Arduino, que executa comandos programados em C++. A comunicação com o software em C# permite enviar instruções e controlar os movimentos, garantindo maior flexibilidade e precisão na execução das ações.
 
 ## 📊 Resultados
+## 🖼️ Simulação no TinkerCad
 
+![Simulação do circuito](Imagens/simulacao.png)
 * Desenvolvimento de um braço robótico com movimentos funcionais
 * Aplicação prática de programação em sistemas embarcados
 * Integração entre diferentes linguagens e tecnologias
@@ -37,7 +39,7 @@ O sistema realiza o controle dos atuadores do braço robótico através do Ardui
 * Projetos educacionais em robótica
 * Prototipagem de soluções industriais
 
-## 🔮 Próximos passos
+
 
 * Implementar controle mais preciso (ex: suavização de movimentos)
 * Adicionar sensores para feedback em tempo real
