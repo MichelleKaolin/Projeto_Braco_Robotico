@@ -25,7 +25,7 @@ Este projeto consiste na construção e programação de um braço robótico fun
 O sistema realiza o controle dos atuadores do braço robótico através do Arduino, que executa comandos programados em C++. A comunicação com o software em C# permite enviar instruções e controlar os movimentos, garantindo maior flexibilidade e precisão na execução das ações.
 
 ## 📊 Resultados
-![Simulação do circuito](tree/main/Braco_Robotico/Imagens)
+![Simulação do circuito](https://github.com/MichelleKaolin/Projeto_Braco_Robotico/tree/main/Braco_Robotico/Imagens)
 O vídeo demonstra o controle em tempo real dos servomotores através dos potenciômetros, evidenciando a integração entre hardware (Arduino) e lógica de controle implementada.
 
 * Desenvolvimento de um braço robótico com movimentos funcionais
