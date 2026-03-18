@@ -26,6 +26,7 @@ O sistema realiza o controle dos atuadores do braço robótico através do Ardui
 
 ## 📊 Resultados
 ![Simulação do circuito](tree/main/Braco_Robotico/Imagens)
+O vídeo demonstra o controle em tempo real dos servomotores através dos potenciômetros, evidenciando a integração entre hardware (Arduino) e lógica de controle implementada.
 
 * Desenvolvimento de um braço robótico com movimentos funcionais
 * Aplicação prática de programação em sistemas embarcados
